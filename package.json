@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "mongodb": "^3.5.9",
     "mongosh": "^1.1.9",
     "next": "latest",
