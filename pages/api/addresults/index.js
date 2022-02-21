@@ -22,8 +22,11 @@ const options = {
 
 export default function handler(req, res) {
     async function addResults() {
+        // Run cors
+        await cors(req, res)
+        
         const client = new MongoClient(uri, options);
-        const statement = JSON.stringify(req.body);
+        const statement = req.body;
         const time = new Date();
         const response = {
             "appId": 1,
