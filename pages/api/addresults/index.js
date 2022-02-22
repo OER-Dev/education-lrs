@@ -20,10 +20,12 @@ const options = {
 }
 
 
-export default function handler(req, res) {
+export default async function handler(req, res) {
+     // Run cors
+    await cors(req, res);
+
     async function addResults() {
-        // Run cors
-        await cors(req, res)
+       
         
         const client = new MongoClient(uri, options);
         const statement = req.body;
@@ -43,12 +45,12 @@ export default function handler(req, res) {
             console.error(e);
             res.status(400).json("Error")
         } finally {
-            res.status(200).json(response)
+            res.status(200).json(response);
             await client.close();
         }
-
+       
     }
-
+    
     addResults().catch(console.error);
 
 
