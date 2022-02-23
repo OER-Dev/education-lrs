@@ -34,7 +34,7 @@ export default async function handler(req, res) {
             console.error(e)
             res.status(400).json('Error')
         } finally {
-            res.status(200).json('One record added')
+            res.status(200).json('One record added in db')
         }
     }
 
