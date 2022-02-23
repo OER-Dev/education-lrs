@@ -1,4 +1,4 @@
-import { MongoClient } from 'mongodb'
+import clientPromise from '../../../lib/mongodb'
 import Cors from 'cors'
 import initMiddleware from '../../../lib/init-middleware'
 
@@ -11,47 +11,32 @@ const cors = initMiddleware(
   })
 )
 
-const uri = process.env.MONGODB_URI
-
-const options = {
-    useUnifiedTopology: true,
-    useNewUrlParser: true,
-    connectTimeoutMS: 7000,
-}
-
 
 export default async function handler(req, res) {
-     // Run cors
-    await cors(req, res);
+    // Run cors
+    await cors(req, res)
 
     async function addResults() {
-       
-        
-        const client = new MongoClient(uri, options);
-        const statement = req.body;
-        const time = new Date();
+        const client = await clientPromise
+        const db = client.db('assessment')
+        const statement = req.body
+        const time = new Date()
+
         const response = {
-            "appId": 1,
-            "timestamp": time,
-            "results": statement
+            appId: 1,
+            timestamp: time,
+            results: statement,
         }
 
         try {
-            await client.connect();
-
-            await client.db("assessment").collection("results").insertOne(response);
-
+            await db.collection('results').insertOne(response)
         } catch (e) {
-            console.error(e);
-            res.status(400).json("Error")
+            console.error(e)
+            res.status(400).json('Error')
         } finally {
-            res.status(200).json("One record added");
-            await client.close();
+            res.status(200).json('One record added')
         }
-       
     }
-    
-    addResults().catch(console.error);
 
-
+    addResults().catch(console.error)
 }
