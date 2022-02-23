@@ -1,5 +1,5 @@
 import { MongoClient } from 'mongodb'
-import Cors from 'cors'
+/* import Cors from 'cors'
 import initMiddleware from '../../../lib/init-middleware'
 
 // Initialize the cors middleware
@@ -9,7 +9,7 @@ const cors = initMiddleware(
     // Only allow requests with GET, POST and OPTIONS
     methods: ['GET', 'POST', 'OPTIONS'],
   })
-)
+) */
 
 const uri = process.env.MONGODB_URI
 
