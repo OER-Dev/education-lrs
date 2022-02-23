@@ -22,7 +22,7 @@ const options = {
 
 export default async function handler(req, res) {
      // Run cors
-    await cors(req, res);
+    // await cors(req, res);
 
     async function addResults() {
        
