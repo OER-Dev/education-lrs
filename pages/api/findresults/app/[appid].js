@@ -1,4 +1,5 @@
-import { MongoClient } from 'mongodb'
+//import { MongoClient } from 'mongodb'
+import clientPromise from '../../../../lib/mongodb'
 
 const uri = process.env.MONGODB_URI
 
@@ -11,12 +12,14 @@ const options = {
 
 export default function handler({ query: { appid } }, res) {
     async function findResultsUi() {
+        const client = await clientPromise
+        const db = client.db('assessment')
 
-        const client = new MongoClient(uri, options);
+        //const client = new MongoClient(uri, options);
 
-        await client.connect();
+        //await client.connect();
 
-        const cursor = client.db("assessment").collection("results")
+        const cursor = db.collection("results")
             .find({
                 appId: { $eq: parseInt(appid) }
             })
