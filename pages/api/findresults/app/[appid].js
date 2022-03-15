@@ -15,10 +15,6 @@ export default function handler({ query: { appid } }, res) {
         const client = await clientPromise
         const db = client.db('assessment')
 
-        //const client = new MongoClient(uri, options);
-
-        //await client.connect();
-
         const cursor = db.collection("results")
             .find({
                 appId: { $eq: parseInt(appid) }
