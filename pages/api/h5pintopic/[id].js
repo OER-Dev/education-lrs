@@ -1,8 +1,8 @@
 import { h5ptopic } from '../../../data/h5ptopic'
 
 export default function handler({ query: { id } }, res) {
-    const filtered = h5ptopic.filter((topic) => topic.id == id)
-
+    const filtered = h5ptopic.filter((topic) => topic.id === parseInt(id))
+    
     if (filtered.length > 0) {
         res.status(200).json(filtered)
     } else {
