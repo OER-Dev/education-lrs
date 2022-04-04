@@ -19,7 +19,7 @@ export default async function handler(req, res) {
     async function addResults() {
         const client = await clientPromise
         const db = client.db('assessment')
-        const statement = req.body
+        const statement = String(req.body)
         const time = new Date()
 
         const response = {
