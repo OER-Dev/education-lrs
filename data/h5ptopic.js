@@ -4,2043 +4,2335 @@ export const h5ptopic = [
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 81
+    "h5pid": 81,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 748
+    "h5pid": 748,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 869
+    "h5pid": 869,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 870
+    "h5pid": 870,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 83
+    "h5pid": 83,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 759
+    "h5pid": 759,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 51
+    "h5pid": 51,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 758
+    "h5pid": 758,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting",
     "level": 1,
-    "id": 819
+    "h5pid": 819,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 748
+    "h5pid": 748,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 753
+    "h5pid": 753,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 89
+    "h5pid": 89,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 749
+    "h5pid": 749,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 750
+    "h5pid": 750,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 747
+    "h5pid": 747,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "counting-objects",
     "level": 2,
-    "id": 820
+    "h5pid": 820,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 865
+    "h5pid": 865,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 770
+    "h5pid": 770,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 949
+    "h5pid": 949,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 736
+    "h5pid": 736,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 737
+    "h5pid": 737,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 732
+    "h5pid": 732,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 733
+    "h5pid": 733,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 734
+    "h5pid": 734,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-small-numbers",
     "level": 3,
-    "id": 818
+    "h5pid": 818,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 790
+    "h5pid": 790,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 761
+    "h5pid": 761,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 779
+    "h5pid": 779,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 760
+    "h5pid": 760,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 751
+    "h5pid": 751,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 752
+    "h5pid": 752,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 863
+    "h5pid": 863,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 862
+    "h5pid": 862,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "numbers-0-120",
     "level": 4,
-    "id": 833
+    "h5pid": 833,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction",
     "level": 5,
-    "id": 775
+    "h5pid": 775,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction",
     "level": 5,
-    "id": 776
+    "h5pid": 776,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction",
     "level": 5,
-    "id": 721
+    "h5pid": 721,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction",
     "level": 5,
-    "id": 774
+    "h5pid": 774,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction",
     "level": 5,
-    "id": 931
+    "h5pid": 931,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction",
     "level": 5,
-    "id": 781
+    "h5pid": 781,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction",
     "level": 5,
-    "id": 806
+    "h5pid": 806,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 782
+    "h5pid": 782,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 780
+    "h5pid": 780,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 852
+    "h5pid": 852,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 853
+    "h5pid": 853,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 851
+    "h5pid": 851,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 828
+    "h5pid": 828,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "making5-and-10",
     "level": 6,
-    "id": 827
+    "h5pid": 827,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "put-together-take-apart",
     "level": 7,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "put-together-take-apart",
     "level": 7,
-    "id": 884
+    "h5pid": 884,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "put-together-take-apart",
     "level": 7,
-    "id": 720
+    "h5pid": 720,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "put-together-take-apart",
     "level": 7,
-    "id": 929
+    "h5pid": 929,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "put-together-take-apart",
     "level": 7,
-    "id": 837
+    "h5pid": 837,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "relate-addition-and-subtraction",
     "level": 8,
-    "id": 791
+    "h5pid": 791,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "relate-addition-and-subtraction",
     "level": 8,
-    "id": 888
+    "h5pid": 888,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "relate-addition-and-subtraction",
     "level": 8,
-    "id": 887
+    "h5pid": 887,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "relate-addition-and-subtraction",
     "level": 8,
-    "id": 839
+    "h5pid": 839,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 898
+    "h5pid": 898,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 906
+    "h5pid": 906,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 722
+    "h5pid": 722,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 723
+    "h5pid": 723,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 932
+    "h5pid": 932,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 934
+    "h5pid": 934,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-word-problems",
     "level": 9,
-    "id": 809
+    "h5pid": 809,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "teens-as-sums-with-10",
     "level": 10,
-    "id": 773
+    "h5pid": 773,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "teens-as-sums-with-10",
     "level": 10,
-    "id": 938
+    "h5pid": 938,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "teens-as-sums-with-10",
     "level": 10,
-    "id": 936
+    "h5pid": 936,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "teens-as-sums-with-10",
     "level": 10,
-    "id": 937
+    "h5pid": 937,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "teens-as-sums-with-10",
     "level": 10,
-    "id": 848
+    "h5pid": 848,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "tens",
     "level": 11,
-    "id": 771
+    "h5pid": 771,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "tens",
     "level": 11,
-    "id": 783
+    "h5pid": 783,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "tens",
     "level": 11,
-    "id": 772
+    "h5pid": 772,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "tens",
     "level": 11,
-    "id": 942
+    "h5pid": 942,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "tens",
     "level": 11,
-    "id": 764
+    "h5pid": 764,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "tens",
     "level": 11,
-    "id": 849
+    "h5pid": 849,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 676
+    "h5pid": 676,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 718
+    "h5pid": 718,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 786
+    "h5pid": 786,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 787
+    "h5pid": 787,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 788
+    "h5pid": 788,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 712
+    "h5pid": 712,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 717
+    "h5pid": 717,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 713
+    "h5pid": 713,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-20",
     "level": 12,
-    "id": 812
+    "h5pid": 812,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-20",
     "level": 13,
-    "id": 918
+    "h5pid": 918,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-20",
     "level": 13,
-    "id": 919
+    "h5pid": 919,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-20",
     "level": 13,
-    "id": 920
+    "h5pid": 920,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-20",
     "level": 13,
-    "id": 924
+    "h5pid": 924,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-20",
     "level": 13,
-    "id": 930
+    "h5pid": 930,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-20",
     "level": 13,
-    "id": 928
+    "h5pid": 928,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-20",
     "level": 13,
-    "id": 847
+    "h5pid": 847,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting",
     "level": 14,
-    "id": 892
+    "h5pid": 892,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting",
     "level": 14,
-    "id": 777
+    "h5pid": 777,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting",
     "level": 14,
-    "id": 896
+    "h5pid": 896,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting",
     "level": 14,
-    "id": 40
+    "h5pid": 40,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting",
     "level": 14,
-    "id": 893
+    "h5pid": 893,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting",
     "level": 14,
-    "id": 840
+    "h5pid": 840,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-or-10s",
     "level": 15,
-    "id": 784
+    "h5pid": 784,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-or-10s",
     "level": 15,
-    "id": 944
+    "h5pid": 944,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-or-10s",
     "level": 15,
-    "id": 943
+    "h5pid": 943,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-or-10s",
     "level": 15,
-    "id": 655
+    "h5pid": 655,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-or-10s",
     "level": 15,
-    "id": 43
+    "h5pid": 43,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-or-10s",
     "level": 15,
-    "id": 803
+    "h5pid": 803,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-and-10s",
     "level": 16,
-    "id": 796
+    "h5pid": 796,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-and-10s",
     "level": 16,
-    "id": 945
+    "h5pid": 945,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-and-10s",
     "level": 16,
-    "id": 946
+    "h5pid": 946,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-and-10s",
     "level": 16,
-    "id": 912
+    "h5pid": 912,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-and-10s",
     "level": 16,
-    "id": 909
+    "h5pid": 909,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-and-10s",
     "level": 16,
-    "id": 843
+    "h5pid": 843,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 660
+    "h5pid": 660,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 727
+    "h5pid": 727,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 885
+    "h5pid": 885,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 669
+    "h5pid": 669,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 705
+    "h5pid": 705,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 728
+    "h5pid": 728,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 886
+    "h5pid": 886,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 657
+    "h5pid": 657,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 659
+    "h5pid": 659,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-with-2-digit-numbers",
     "level": 17,
-    "id": 823
+    "h5pid": 823,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-with-2-digit-numbers",
     "level": 18,
-    "id": 914
+    "h5pid": 914,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-with-2-digit-numbers",
     "level": 18,
-    "id": 916
+    "h5pid": 916,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-with-2-digit-numbers",
     "level": 18,
-    "id": 910
+    "h5pid": 910,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-with-2-digit-numbers",
     "level": 18,
-    "id": 846
+    "h5pid": 846,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-within-100",
     "level": 19,
-    "id": 785
+    "h5pid": 785,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-within-100",
     "level": 19,
-    "id": 671
+    "h5pid": 671,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-within-100",
     "level": 19,
-    "id": 908
+    "h5pid": 908,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-within-100",
     "level": 19,
-    "id": 667
+    "h5pid": 667,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-within-100",
     "level": 19,
-    "id": 890
+    "h5pid": 890,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-and-subtraction-within-100",
     "level": 19,
-    "id": 842
+    "h5pid": 842,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-100",
     "level": 20,
-    "id": 662
+    "h5pid": 662,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-100",
     "level": 20,
-    "id": 668
+    "h5pid": 668,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-100",
     "level": 20,
-    "id": 680
+    "h5pid": 680,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-100",
     "level": 20,
-    "id": 689
+    "h5pid": 689,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-100",
     "level": 20,
-    "id": 678
+    "h5pid": 678,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "addition-within-100",
     "level": 20,
-    "id": 811
+    "h5pid": 811,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-100",
     "level": 21,
-    "id": 914
+    "h5pid": 914,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-100",
     "level": 21,
-    "id": 916
+    "h5pid": 916,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-100",
     "level": 21,
-    "id": 922
+    "h5pid": 922,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction-within-100",
     "level": 21,
-    "id": 921
+    "h5pid": 921,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtraction.within-100",
     "level": 21,
-    "id": 844
+    "h5pid": 844,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 666
+    "h5pid": 666,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 661
+    "h5pid": 661,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 797
+    "h5pid": 797,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 789
+    "h5pid": 789,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 798
+    "h5pid": 798,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 799
+    "h5pid": 799,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 724
+    "h5pid": 724,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 935
+    "h5pid": 935,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-within-100",
     "level": 22,
-    "id": 810
+    "h5pid": 810,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 792
+    "h5pid": 792,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 793
+    "h5pid": 793,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 794
+    "h5pid": 794,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 795
+    "h5pid": 795,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 899
+    "h5pid": 899,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 645
+    "h5pid": 645,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 649
+    "h5pid": 649,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "word-problems-with-more-and-fewer",
     "level": 23,
-    "id": 832
+    "h5pid": 832,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "arithmetic",
     "level": 24,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "arithmetic",
     "level": 24,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "arithmetic",
     "level": 24,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "arithmetic",
     "level": 24,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "arithmetic",
     "level": 24,
-    "id": 813
+    "h5pid": 813,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting-by-100s",
     "level": 25,
-    "id": 894
+    "h5pid": 894,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting-by-100s",
     "level": 25,
-    "id": 897
+    "h5pid": 897,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "skip-counting-by-100s",
     "level": 25,
-    "id": 841
+    "h5pid": 841,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-10s-and-100s",
     "level": 26,
-    "id": 688
+    "h5pid": 688,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-10s-and-100s",
     "level": 26,
-    "id": 696
+    "h5pid": 696,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-10s-and-100s",
     "level": 26,
-    "id": 698
+    "h5pid": 698,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-10s-and-100s",
     "level": 26,
-    "id": 650
+    "h5pid": 650,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-10s-and-100s",
     "level": 26,
-    "id": 685
+    "h5pid": 685,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-1s-10s-and-100s",
     "level": 26,
-    "id": 804
+    "h5pid": 804,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-10s-and-100s",
     "level": 27,
-    "id": 925
+    "h5pid": 925,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-10s-and-100s",
     "level": 27,
-    "id": 926
+    "h5pid": 926,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-10s-and-100s",
     "level": 27,
-    "id": 927
+    "h5pid": 927,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-10s-and-100s",
     "level": 27,
-    "id": 911
+    "h5pid": 911,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-10s-and-100s",
     "level": 27,
-    "id": 923
+    "h5pid": 923,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "subtracting-1s-10s-and-100s",
     "level": 27,
-    "id": 845
+    "h5pid": 845,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 730
+    "h5pid": 730,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 907
+    "h5pid": 907,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 707
+    "h5pid": 707,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 701
+    "h5pid": 701,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 729
+    "h5pid": 729,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 681
+    "h5pid": 681,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 679
+    "h5pid": 679,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 891
+    "h5pid": 891,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "strategies-for-adding-2-and-3-digit-numbers",
     "level": 28,
-    "id": 816
+    "h5pid": 816,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-up-to-four-2-digit-numbers",
     "level": 29,
-    "id": 699
+    "h5pid": 699,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-up-to-four-2-digit-numbers",
     "level": 29,
-    "id": 697
+    "h5pid": 697,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-up-to-four-2-digit-numbers",
     "level": 29,
-    "id": 703
+    "h5pid": 703,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-up-to-four-2-digit-numbers",
     "level": 29,
-    "id": 706
+    "h5pid": 706,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "adding-up-to-four-2-digit-numbers",
     "level": 29,
-    "id": 805
+    "h5pid": 805,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 872
+    "h5pid": 872,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 769
+    "h5pid": 769,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 874
+    "h5pid": 874,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 873
+    "h5pid": 873,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 876
+    "h5pid": 876,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 875
+    "h5pid": 875,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 877
+    "h5pid": 877,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 878
+    "h5pid": 878,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 880
+    "h5pid": 880,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 881
+    "h5pid": 881,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 879
+    "h5pid": 879,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 739
+    "h5pid": 739,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-size",
     "level": 30,
-    "id": 802
+    "h5pid": 802,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 763
+    "h5pid": 763,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 762
+    "h5pid": 762,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 857
+    "h5pid": 857,
+    "levelup": 0
   },
   {
     "language": "",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 859
+    "h5pid": 859,
+    "levelup": 0
   },
   {
     "language": "",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 860
+    "h5pid": 860,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 856
+    "h5pid": 856,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 858
+    "h5pid": 858,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 854
+    "h5pid": 854,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 855
+    "h5pid": 855,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 948
+    "h5pid": 948,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 947
+    "h5pid": 947,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "measuring-length",
     "level": 31,
-    "id": 830
+    "h5pid": 830,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-and-estimating-length",
     "level": 32,
-    "id": 740
+    "h5pid": 740,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-and-estimating-length",
     "level": 32,
-    "id": 758
+    "h5pid": 758,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-and-estimating-length",
     "level": 32,
-    "id": 757
+    "h5pid": 757,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-and-estimating-length",
     "level": 32,
-    "id": 756
+    "h5pid": 756,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "comparing-and-estimating-length",
     "level": 32,
-    "id": 817
+    "h5pid": 817,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-word-problems",
     "level": 33,
-    "id": 1000
+    "h5pid": 1000,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-word-problems",
     "level": 33,
-    "id": 1001
+    "h5pid": 1001,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-word-problems",
     "level": 33,
-    "id": 1002
+    "h5pid": 1002,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-word-problems",
     "level": 33,
-    "id": 800
+    "h5pid": 800,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-word-problems",
     "level": 33,
-    "id": 801
+    "h5pid": 801,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "length-word-problems",
     "level": 33,
-    "id": 824
+    "h5pid": 824,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "picture-graphs",
     "level": 34,
-    "id": 1003
+    "h5pid": 1003,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "picture-graphs",
     "level": 34,
-    "id": 1004
+    "h5pid": 1004,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "picture-graphs",
     "level": 34,
-    "id": 904
+    "h5pid": 904,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "picture-graphs",
     "level": 34,
-    "id": 905
+    "h5pid": 905,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "picture-graphs",
     "level": 34,
-    "id": 834
+    "h5pid": 834,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "bar-graphs",
     "level": 35,
-    "id": 1005
+    "h5pid": 1005,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "bar-graphs",
     "level": 35,
-    "id": 1006
+    "h5pid": 1006,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "bar-graphs",
     "level": 35,
-    "id": 1007
+    "h5pid": 1007,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "bar-graphs",
     "level": 35,
-    "id": 900
+    "h5pid": 900,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "bar-graphs",
     "level": 35,
-    "id": 901
+    "h5pid": 901,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "bar-graphs",
     "level": 35,
-    "id": 814
+    "h5pid": 814,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "line-plots",
     "level": 36,
-    "id": 1008
+    "h5pid": 1008,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "line-plots",
     "level": 36,
-    "id": 1009
+    "h5pid": 1009,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "line-plots",
     "level": 36,
-    "id": 902
+    "h5pid": 902,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "line-plots",
     "level": 36,
-    "id": 903
+    "h5pid": 903,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "line-plots",
     "level": 36,
-    "id": 825
+    "h5pid": 825,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "time",
     "level": 38,
-    "id": 1010
+    "h5pid": 1010,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "time",
     "level": 38,
-    "id": 1011
+    "h5pid": 1011,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "time",
     "level": 38,
-    "id": 1012
+    "h5pid": 1012,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "time",
     "level": 38,
-    "id": 940
+    "h5pid": 940,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "time",
     "level": 38,
-    "id": 939
+    "h5pid": 939,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "time",
     "level": 38,
-    "id": 941
+    "h5pid": 941,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "time",
     "level": 38,
-    "id": 850
+    "h5pid": 850,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "money",
     "level": 39,
-    "id": 1013
+    "h5pid": 1013,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "money",
     "level": 39,
-    "id": 1014
+    "h5pid": 1014,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "money",
     "level": 39,
-    "id": 864
+    "h5pid": 864,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "money",
     "level": 39,
-    "id": 744
+    "h5pid": 744,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "money",
     "level": 39,
-    "id": 768
+    "h5pid": 768,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "money",
     "level": 39,
-    "id": 831
+    "h5pid": 831,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 1018
+    "h5pid": 1018,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 1016
+    "h5pid": 1016,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 1017
+    "h5pid": 1017,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 866
+    "h5pid": 866,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 867
+    "h5pid": 867,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 868
+    "h5pid": 868,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 889
+    "h5pid": 889,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "basic-shapes",
     "level": 40,
-    "id": 815
+    "h5pid": 815,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 1015
+    "h5pid": 1015,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 1019
+    "h5pid": 1019,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 1020
+    "h5pid": 1020,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 726
+    "h5pid": 726,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 725
+    "h5pid": 725,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 731
+    "h5pid": 731,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 767
+    "h5pid": 767,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 738
+    "h5pid": 738,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "properties-of-shapes",
     "level": 41,
-    "id": 835
+    "h5pid": 835,
+    "levelup": 1
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "composing-shapes",
     "level": 42,
-    "id": 1024
+    "h5pid": 1024,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "composing-shapes",
     "level": 42,
-    "id": 741
+    "h5pid": 741,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "composing-shapes",
     "level": 42,
-    "id": 0
+    "h5pid": 0,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 1021
+    "h5pid": 1021,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 1022
+    "h5pid": 1022,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 1023
+    "h5pid": 1023,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 882
+    "h5pid": 882,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 755
+    "h5pid": 755,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 754
+    "h5pid": 754,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 766
+    "h5pid": 766,
+    "levelup": 0
   },
   {
     "language": "en",
     "mainTopic": "early-math",
     "topic": "fractions-of-shapes",
     "level": 42,
-    "id": 822
+    "h5pid": 822,
+    "levelup": 1
   }
  ]
