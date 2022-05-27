@@ -9,7 +9,7 @@ const options = {
     connectTimeoutMS: 7000,
 }
 
-
+//have closed the API by hardcoding 17 in the appId field
 export default function handler({ query: { appid } }, res) {
     async function findResultsUi() {
         const client = await clientPromise
@@ -17,7 +17,7 @@ export default function handler({ query: { appid } }, res) {
 
         const cursor = db.collection("results")
             .find({
-                appId: { $eq: parseInt(appid) }
+                appId: { $eq: parseInt("17") }
             })
             .sort({ userId: -1 });
 
